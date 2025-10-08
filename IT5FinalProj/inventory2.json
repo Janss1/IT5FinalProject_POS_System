@@ -1,0 +1,49 @@
+[
+  {
+    "id": 1,
+    "name": "Rice (5kg)",
+    "price": 250.0,
+    "stock": 20
+  },
+  {
+    "id": 2,
+    "name": "Cooking Oil (1L)",
+    "price": 120.0,
+    "stock": 15
+  },
+  {
+    "id": 3,
+    "name": "Sugar (1kg)",
+    "price": 60.0,
+    "stock": 30
+  },
+  {
+    "id": 4,
+    "name": "Salt (1kg)",
+    "price": 20.0,
+    "stock": 40
+  },
+  {
+    "id": 5,
+    "name": "Instant Noodles",
+    "price": 15.0,
+    "stock": 100
+  },
+  {    "id": 6,
+    "name": "Mang Tomas (550g)",
+    "price": 80.0,
+    "stock": 50
+  },
+  {
+    "id": 7,
+    "name": "Luckyme Pancit Canton Original (80g)",
+    "price": 15.0,
+    "stock": 200
+  },
+  {
+    "id": 8,
+    "name": "Coca-Cola (1.5L)",
+    "price": 70.0,
+    "stock": 75
+  }
+]
