@@ -28,23 +28,6 @@
     "name": "Instant Noodles",
     "price": 15.0,
     "stock": 95
-  },
-  {
-    "id": 6,
-    "name": "Mang Tomas (550g)",
-    "price": 80.0,
-    "stock": 49
-  },
-  {
-    "id": 7,
-    "name": "Luckyme Pancit Canton Original (80g)",
-    "price": 15.0,
-    "stock": 195
-  },
-  {
-    "id": 8,
-    "name": "Coca-Cola (1.5L)",
-    "price": 70.0,
-    "stock": 74
   }
+
 ]
