@@ -243,7 +243,7 @@ class POSMainWindow(QMainWindow):
         filename = os.path.join(RECEIPTS_FOLDER, f"receipt_{timestamp}.txt")
         with open(filename, 'w', encoding='utf-8') as f:
             f.write('----------------------------------------\n')
-            f.write('   FreshMart Grocery POS\n')
+            f.write('   Tindahan ni Aling Nena POS\n')
             f.write('----------------------------------------\n')
             f.write(f"Date: {timestamp}\n")
             f.write('Cashier: Default\n')
@@ -329,3 +329,4 @@ if __name__ == '__main__':
     window = POSMainWindow()
     window.show()
     sys.exit(app.exec_())
+
